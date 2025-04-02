@@ -38,7 +38,7 @@ div.container > div.item {
 }
 
 
-div.container > div.item.yellow  {
+div.container > div.item.yellow  { 
     position: relative;
     cursor: move;
 
